@@ -9,7 +9,7 @@ This repository includes data and source code for the WSDM'20 paper:
 
 - Statistical analysis regarding marketing bias and consumer behavior in the datasets is included in [analysis.ipynb](/analysis.ipynb).
 
-- [To-Do] This paper implements several standard recommendation algorithms in tensorflow 1.13. Our implementations will be released later for reference.
+- The algorithm is implemented in tensorflow 1.13 (under [~/src](/src)). Please refer [jobs.sh](/jobs.sh) and see how to run the scripts.
 
 - More details please consult in the paper "[Addressing Marketing Bias in Product Recommendations](https://github.com/MengtingWan/mengtingwan.github.io/raw/master/paper/wsdm20_mwan.pdf)".
 
